@@ -1,20 +1,23 @@
 
 # Dự Án Quản Lý Chi Tiêu (Expense Manager)
 
+
 **Bài tập Thực hành (Lab 2)**
 
 Dự án này là một hệ thống Web Application giúp người dùng ghi chép và quản lý chi tiêu cá nhân. Hệ thống được thiết kế theo kiến trúc **Microservices (Client-Server)** với Backend và Frontend tách biệt hoàn toàn, giao tiếp qua RESTful API và bảo mật bằng chuẩn **Bearer Token** (Firebase Auth & Google OAuth 2.0).
 
 ---
-
+## Thông tin sinh viên 
+* **Họ và tên:** Nguyễn Hoàng Như Dung
+* **Mã số sinh viên:** 24120175
+* **Giảng viên thực hành:** Lê Đức Khoan 
 ## Đường dẫn đến video demo
 
-**[CHÈN LINK VIDEO DEMO YOUTUBE HOẶC GOOGLE DRIVE CỦA EM VÀO ĐÂY]**
-*(Lưu ý: Nếu dùng Google Drive, hãy nhớ bật quyền chia sẻ "Bất kỳ ai có đường liên kết đều có thể xem")*
+**https://youtu.be/oRbhXtwVw4g**
 
 ---
 
-## 🛠 Hướng dẫn cài đặt environment
+## Hướng dẫn cài đặt environment
 
 Dự án này yêu cầu máy tính phải có sẵn **Python 3.9+**. 
 Vì dự án chia làm 2 phân hệ độc lập (Backend và Frontend), chúng ta cần thiết lập 2 môi trường ảo (virtual environment - `venv`) riêng biệt để tránh xung đột thư viện.
